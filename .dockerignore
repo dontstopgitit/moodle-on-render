@@ -1,0 +1,4 @@
+moodledata
+.git
+*.log
+node_modules
